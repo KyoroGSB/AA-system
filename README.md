@@ -1,1 +1,1 @@
-透過FTP測試AA資源包的熱更新
+透過FTP測試Addressable資源包的熱更新
